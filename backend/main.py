@@ -66,7 +66,7 @@ app.middleware("http")(rate_limit_middleware)
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://scaffi-ai.onrender.com", 
+    allow_origins=["https://scaffi-ai.vercel.app/", 
         "http://localhost:5173",  # Local dev
         "http://localhost:3000" ],
     allow_credentials=True,
