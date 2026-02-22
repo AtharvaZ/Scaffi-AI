@@ -4,8 +4,6 @@
 
 Scaffi transforms overwhelming programming assignments into clear, manageable tasks with AI-generated starter code, progressive hints, and instant feedback—helping students learn by doing, not by copying.
 
-🚀 **[Try it live →](https://scaffi-ai.onrender.com/)**
-
 ### What Scaffi Does
 
 - 📋 **Smart Breakdown** - Parses assignments (PDF or text) into ordered tasks with dependencies
